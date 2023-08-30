@@ -1,6 +1,11 @@
 # BC_Assignment_4
 ## Pandas Challenge
 
+Content:
+1. Details on assignment
+2. Additional resources
+3. Trend Analysis
+
 ## 1. Details on the assignment:
 This assignment required us to use the schools_complete.csv and students_complete.csv to analyse the following:
 
